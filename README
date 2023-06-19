@@ -1,0 +1,6 @@
+Easy way to covert csv to json
+
+
+1) Get this: git clone https://github.com/progman/csv2json.git
+2) ./build.sh && ./csv2json test.csv
+3) Enjoy!
